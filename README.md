@@ -1,49 +1,37 @@
-# Presentación Interactiva: Colapso Real Plaza Trujillo
+# Edward Vásquez Morales
 
-Este repositorio contiene una presentación HTML interactiva sobre el colapso del techo en el centro comercial Real Plaza Trujillo (Perú), analizado desde la perspectiva del diseño estructural y las normas técnicas de ingeniería.
+**Ingeniero Mecánico Estructural · Coordinador de Proyectos de Ingeniería**
 
-## Contenido
+Mi trabajo e intereses abarcan ingeniería estructural e industrial, simulación numérica, vibraciones y automatización aplicada a ingeniería. Este perfil reúne material de divulgación y proyectos de aprendizaje, con énfasis en la trazabilidad de datos, supuestos y resultados.
 
-- Análisis del evento ocurrido en Real Plaza Trujillo.
-- Fundamentos del diseño dúctil y su relevancia.
-- Comparación con normativas internacionales (AISC 341, Eurocódigo 8).
-- Casos internacionales de colapsos estructurales (no sísmicos).
-- Reflexiones normativas y propuestas de mejora para el Perú.
+## Portafolio público
 
-## Estructura del Proyecto
+| Proyecto | Contenido |
+|---|---|
+| [SimSolid y EAM](https://github.com/EdwardVasquezM/simsolid-eam) | Presentación académica sobre aproximaciones externas y análisis estructural. |
+| [Análisis de vibraciones](https://github.com/EdwardVasquezM/analisis-vibraciones) | Simulador web de un grado de libertad con integración RK4 y exportación de resultados. |
+| [Seguridad estructural: Real Plaza Trujillo](https://github.com/EdwardVasquezM/Colapso-Real-Plaza-Trujillo) | Material de discusión técnica sobre seguridad, inspección y mantenimiento; no constituye un dictamen pericial. |
+| [Blog de ingeniería](https://github.com/EdwardVasquezM/blog-ingenieria) | Divulgación sobre matemáticas aplicadas, simulación e inteligencia artificial. |
 
-```
-blog/
-├── index.html                         # Presentación interactiva en HTML
-├── 1 Colapso en REal plaza Trujillo.jpeg
-├── Supermercado Maxima.jpeg
-├── abellón de Exposiciones en Katowice.jpeg
-├── Pasarelas del Hotel Hyatt Regency.jpeg
-└── Algo Centre Mall.jpeg
-```
+## Laboratorio y aprendizaje
 
-## Cómo visualizar
+[Hipótesis de Riemann](https://github.com/EdwardVasquezM/Hipotesis-de-Riemann): presentación educativa y visualizaciones matemáticas.
 
-1. Descarga o clona este repositorio.
-2. Abre el archivo `index.html` en tu navegador.
-3. Asegúrate de mantener las imágenes en la misma carpeta `blog/` para que se visualicen correctamente.
+## Trabajo técnico privado
 
-## Publicación en GitHub Pages
+Los proyectos de acceso restringido se gestionan por separado. Este perfil público enlaza únicamente repositorios públicos verificados.
 
-1. Sube el contenido de la carpeta `blog/` a tu repositorio de GitHub.
-2. Ve a **Settings** → **Pages**.
-3. En **Source**, selecciona la rama principal y la carpeta `/ (root)` o `/blog` si lo subes como subdirectorio.
-4. Accede a tu sitio a través de `https://<usuario>.github.io/<repositorio>`.
+## Criterio de trabajo
 
-## Créditos
+- Diferenciar datos conocidos, supuestos, estimaciones y recomendaciones.
+- Documentar unidades, fuentes, condiciones de borde y límites de los modelos.
+- Verificar resultados y considerar seguridad, construcción, operación y mantenimiento.
+- Utilizar la automatización para reducir errores y conservar la revisión de ingeniería.
 
-- Presentación elaborada por Edward Vásquez Morales.
-- Imágenes con fines educativos y de análisis técnico.
-- Normativa: RNE (Perú), AISC 341, Eurocódigo 8.
+El material publicado tiene el alcance declarado en cada repositorio. Su disponibilidad no implica validación para un proyecto particular.
 
----
+## Contacto
 
-<!---
-EdwardVasquezM/EdwardVasquezM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Correo electrónico](mailto:e_vm@yahoo.com) · [Blog](https://EdwardVasquezM.github.io/blog-ingenieria/)
+
+[Organización de este perfil](docs/ORGANIZACION.md)
